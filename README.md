@@ -10,7 +10,7 @@
 
 This repository contains tasks description, source code and other related documents for this course. It includes:
 
-- x laboratories
+- 2 laboratories
 
 ### System requirement
 
